@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 filw 3
+=======
+dnv
+nsfav
+kvhsfkj
+>>>>>>> new_branch
